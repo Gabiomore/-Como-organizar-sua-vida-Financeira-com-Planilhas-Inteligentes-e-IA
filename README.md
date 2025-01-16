@@ -1,7 +1,7 @@
 # Como organizar sua vida Financeira com Planilhas Inteligentes e IA
 
 ## 💻 **Tecnologias utilizadas no projeto**  
-[Excel](https://www.microsoft365.com/launch/Excel/?auth=1&from=RFMGracetoOnline2)  
+[Excel]()  
 Funções de Análise de Dados (como gráficos e tabelas dinâmicas)  
 Ferramentas de Inteligência Artificial para aprimoramento de análise financeira
 
