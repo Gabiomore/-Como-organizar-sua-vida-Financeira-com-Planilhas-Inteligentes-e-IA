@@ -1,7 +1,13 @@
 # Como organizar sua vida Financeira com Planilhas Inteligentes e IA
 
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+
+O objetivo do desafio é construir um dashboard financeiro no Excel para acompanhar entradas, saídas e reservas de emergência. O foco é ensinar a usar planilhas de forma eficiente, analisar gastos, aplicar conceitos de educação financeira e explorar ferramentas avançadas para aprimorar o controle financeiro.
+
+<a href="https://github.com/Gabiomore/prompts-recipe-to-create-a-ebook/blob/main/output/Ebook-Pythonverse.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+
 ## 💻 **Tecnologias utilizadas no projeto**  
-[Excel]()  
+- Excel 
 Funções de Análise de Dados (como gráficos e tabelas dinâmicas)  
 Ferramentas de Inteligência Artificial para aprimoramento de análise financeira
 
