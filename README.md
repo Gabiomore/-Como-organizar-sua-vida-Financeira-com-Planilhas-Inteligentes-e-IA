@@ -4,7 +4,7 @@
 
 O objetivo do desafio é construir um dashboard financeiro no Excel para acompanhar entradas, saídas e reservas de emergência. O foco é ensinar a usar planilhas de forma eficiente, analisar gastos, aplicar conceitos de educação financeira e explorar ferramentas avançadas para aprimorar o controle financeiro.
 
-<a href="https://github.com/Gabiomore/prompts-recipe-to-create-a-ebook/blob/main/output/Ebook-Pythonverse.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Gabiomore/-Como-organizar-sua-vida-Financeira-com-Planilhas-Inteligentes-e-IA/blob/main/planilha/Planilhas%20Inteligentes.xlsx" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 **Tecnologias utilizadas no projeto**  
 - Excel
