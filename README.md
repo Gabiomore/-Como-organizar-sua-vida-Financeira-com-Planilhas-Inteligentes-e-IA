@@ -12,8 +12,7 @@ Ferramentas de Inteligência Artificial para aprimoramento de análise financeir
 - **Dicas de Educação Financeira** para ensinar como utilizar o dashboard de forma prática e eficiente
 
 ## 📚 **Materiais**  
-Modelo de planilha do Excel  
-Guia de Educação Financeira  
+Modelo de planilha do Excel   
 Tutoriais e recursos para uso do Excel
 
 ## 🛠️ **Instruções de execução**  
