@@ -7,7 +7,8 @@ O objetivo do desafio é construir um dashboard financeiro no Excel para acompan
 <a href="https://github.com/Gabiomore/prompts-recipe-to-create-a-ebook/blob/main/output/Ebook-Pythonverse.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 **Tecnologias utilizadas no projeto**  
-- Excel 
+- Excel
+  
 Funções de Análise de Dados (como gráficos e tabelas dinâmicas)  
 Ferramentas de Inteligência Artificial para aprimoramento de análise financeira
 
