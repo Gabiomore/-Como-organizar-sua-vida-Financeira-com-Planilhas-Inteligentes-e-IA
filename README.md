@@ -1,22 +1,22 @@
 # Como organizar sua vida Financeira com Planilhas Inteligentes e IA
 
-💻 **Tecnologias utilizadas no projeto**  
+## 💻 **Tecnologias utilizadas no projeto**  
 Excel  
 Funções de Análise de Dados (como gráficos e tabelas dinâmicas)  
 Ferramentas de Inteligência Artificial para aprimoramento de análise financeira
 
-✨ **Como foi feito?**  
+## ✨ **Como foi feito?**  
 - **Excel** para criar e organizar o dashboard financeiro  
 - **Funções e recursos avançados** do Excel, como filtros, gráficos, tabelas dinâmicas e fórmulas para análise de entradas e saídas  
 - **Ferramentas de Inteligência Artificial** para automação e aprimoramento de processos financeiros (como categorização de despesas e previsões de fluxo de caixa)  
 - **Dicas de Educação Financeira** para ensinar como utilizar o dashboard de forma prática e eficiente
 
-📚 **Materiais**  
+## 📚 **Materiais**  
 Modelo de planilha do Excel  
 Guia de Educação Financeira  
 Tutoriais e recursos para uso do Excel
 
-🛠️ **Instruções de execução**  
+## 🛠️ **Instruções de execução**  
 Utilize o modelo de planilha e as orientações fornecidas nos tutoriais para construir o seu dashboard de finanças pessoais de maneira eficaz, seguindo os passos abaixo:
 
 🤖 1. **Crie o dashboard no Excel**: Organize as entradas e saídas financeiras, criando filtros por mês, categorias de despesas e reservas.  
